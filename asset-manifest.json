@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fca86159.css",
-    "main.js": "/static/js/main.379ec0a4.js",
+    "main.js": "/static/js/main.4dff901c.js",
     "static/media/productsPageImage.png": "/static/media/productsPageImage.b9297b189d848a7c330d.png",
     "static/media/slider2.png": "/static/media/slider2.27f91ae0715549f1f17b.png",
     "static/media/slider5.png": "/static/media/slider5.92f54cab7db74573dc3d.png",
@@ -15,6 +15,7 @@
     "static/media/heroSection.png": "/static/media/heroSection.e2e866bd430a1732c0d4.png",
     "static/media/pexels-javierbalseiro-16664053 1.png": "/static/media/pexels-javierbalseiro-16664053 1.1b05768bdc42c70e1d88.png",
     "static/media/Group-432.png": "/static/media/Group-432.d9764a64533e42dcae4d.png",
+    "static/media/frigorificos-tunidos4 2.png": "/static/media/frigorificos-tunidos4 2.8000ca71db18e7c109ed.png",
     "static/media/fish5.png": "/static/media/fish5.d27b8d0181846be7749d.png",
     "static/media/meat.png": "/static/media/meat.ae0ff4236e931bd7c3c6.png",
     "static/media/meat4.png": "/static/media/meat4.ae0ff4236e931bd7c3c6.png",
@@ -34,7 +35,6 @@
     "static/media/chicken3.png": "/static/media/chicken3.5b5058b77a847e15b2ca.png",
     "static/media/pfish5.png": "/static/media/pfish5.a04ac9355a7c3b69d426.png",
     "static/media/meat2.png": "/static/media/meat2.7d0fd39a0fc4b77c30cb.png",
-    "static/media/frigorificos-tunidos4 2.png": "/static/media/frigorificos-tunidos4 2.56e4ca9b70ec1aaba2de.png",
     "static/media/pfish2.png": "/static/media/pfish2.e66cd15546447652a3f1.png",
     "static/media/pfish1.png": "/static/media/pfish1.1ca0004c7e8cf6be9d4c.png",
     "static/media/pfish6.png": "/static/media/pfish6.f6870d71369e21ce840c.png",
@@ -61,10 +61,10 @@
     "static/media/Vector.svg": "/static/media/Vector.569c791ad5ea3f1b739cfa43464f5a0c.svg",
     "static/media/small-star.svg": "/static/media/small-star.f46b762567d6dd7741b91f457e8b1f55.svg",
     "main.fca86159.css.map": "/static/css/main.fca86159.css.map",
-    "main.379ec0a4.js.map": "/static/js/main.379ec0a4.js.map"
+    "main.4dff901c.js.map": "/static/js/main.4dff901c.js.map"
   },
   "entrypoints": [
     "static/css/main.fca86159.css",
-    "static/js/main.379ec0a4.js"
+    "static/js/main.4dff901c.js"
   ]
 }
