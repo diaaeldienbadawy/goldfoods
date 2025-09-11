@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fca86159.css",
-    "main.js": "/static/js/main.3addfb65.js",
+    "main.css": "/static/css/main.388432b5.css",
+    "main.js": "/static/js/main.7a205a29.js",
     "static/media/productsPageImage.png": "/static/media/productsPageImage.b9297b189d848a7c330d.png",
     "static/media/slider2.png": "/static/media/slider2.27f91ae0715549f1f17b.png",
     "static/media/slider5.png": "/static/media/slider5.92f54cab7db74573dc3d.png",
@@ -14,6 +14,7 @@
     "static/media/Group-431.png": "/static/media/Group-431.328790836e7a33576b26.png",
     "static/media/heroSection.png": "/static/media/heroSection.e2e866bd430a1732c0d4.png",
     "static/media/pexels-javierbalseiro-16664053 1.png": "/static/media/pexels-javierbalseiro-16664053 1.1b05768bdc42c70e1d88.png",
+    "static/media/logo.png": "/static/media/logo.a01311d095e7b8aa9a06.png",
     "static/media/Group-432.png": "/static/media/Group-432.d9764a64533e42dcae4d.png",
     "static/media/frigorificos-tunidos4 2.png": "/static/media/frigorificos-tunidos4 2.8000ca71db18e7c109ed.png",
     "static/media/fish5.png": "/static/media/fish5.d27b8d0181846be7749d.png",
@@ -60,11 +61,11 @@
     "static/media/Facebook.svg": "/static/media/Facebook.c42da5302460ccc81ff631de1b6b01e7.svg",
     "static/media/Vector.svg": "/static/media/Vector.569c791ad5ea3f1b739cfa43464f5a0c.svg",
     "static/media/small-star.svg": "/static/media/small-star.f46b762567d6dd7741b91f457e8b1f55.svg",
-    "main.fca86159.css.map": "/static/css/main.fca86159.css.map",
-    "main.3addfb65.js.map": "/static/js/main.3addfb65.js.map"
+    "main.388432b5.css.map": "/static/css/main.388432b5.css.map",
+    "main.7a205a29.js.map": "/static/js/main.7a205a29.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca86159.css",
-    "static/js/main.3addfb65.js"
+    "static/css/main.388432b5.css",
+    "static/js/main.7a205a29.js"
   ]
 }
